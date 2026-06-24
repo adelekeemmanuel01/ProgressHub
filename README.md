@@ -1,19 +1,19 @@
-# 🚀 ProgressHub - Task Management API
+#  ProgressHub - Task Management API
 
 ProgressHub is a RESTful Task Management API built with Spring Boot that helps users organize tasks, manage priorities, track completion status, and monitor progress across multiple task lists.
 
 Designed with scalability and clean architecture in mind, the API provides a structured way to manage productivity workflows through well-defined REST endpoints and PostgreSQL persistence.
 
-## ✨ Features
+##  Features
 
-* 📋 Create, retrieve, update, and delete task lists
-* ✅ Create, retrieve, update, and delete tasks within task lists
-* 🎯 Task priority management (`HIGH`, `MEDIUM`, `LOW`)
-* 📌 Task status tracking (`OPEN`, `CLOSED`)
-* 📊 Automatic progress calculation for task lists
-* 🗄️ PostgreSQL database integration
-* 🔗 RESTful API architecture
-* 📖 Interactive API documentation with Swagger/OpenAPI
+*  Create, retrieve, update, and delete task lists
+* Create, retrieve, update, and delete tasks within task lists
+*  Task priority management (`HIGH`, `MEDIUM`, `LOW`)
+* Task status tracking (`OPEN`, `CLOSED`)
+*  Automatic progress calculation for task lists
+*  PostgreSQL database integration
+*  RESTful API architecture
+*  Interactive API documentation with Swagger/OpenAPI
 
 ## 🛠️ Tech Stack
 
@@ -24,13 +24,13 @@ Designed with scalability and clean architecture in mind, the API provides a str
 * Maven
 * Lombok
 
-## 🎯 Project Goal
+##  Project Goal
 
 ProgressHub was built to demonstrate backend development best practices using Spring Boot, including REST API design, layered architecture, database integration, exception handling, and clean code principles.
 
 The project serves as a foundation for more advanced productivity features such as authentication, deadlines, notifications, team collaboration, and analytics.
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Clone the Repository
 
